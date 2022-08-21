@@ -1,0 +1,47 @@
+{
+    "name": "Zero Beings #4280",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/04280.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Background Accent",
+            "value": "Spaced Stripes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair Bulbs"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Kepler-283c"
+        },
+        {
+            "trait_type": "House",
+            "value": "Helium3"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Three"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "I'll trade 4 wheat"
+        }
+    ]
+}

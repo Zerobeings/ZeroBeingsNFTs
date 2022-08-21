@@ -1,0 +1,43 @@
+{
+    "name": "Zero Beings #1142",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/01142.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Background Accent",
+            "value": "Spaced Stripes"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Ross 128 b"
+        },
+        {
+            "trait_type": "House",
+            "value": "Helium3"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Three"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Radical"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Snack Shack"
+        }
+    ]
+}

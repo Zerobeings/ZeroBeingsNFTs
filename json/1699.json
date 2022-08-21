@@ -1,0 +1,47 @@
+{
+    "name": "Zero Beings #1699",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/01699.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair Big"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Photo",
+            "value": "Photo"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Kepler-1410b"
+        },
+        {
+            "trait_type": "House",
+            "value": "Atomic"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Four"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Radical"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Ay, Caramba!"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Zero Beings #3311",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/03311.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Background Accent",
+            "value": "Circles"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        },
+        {
+            "trait_type": "Photo",
+            "value": "Photo"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Kepler-443b"
+        },
+        {
+            "trait_type": "House",
+            "value": "Dune"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Two"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Radical"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Totally Radical"
+        }
+    ]
+}

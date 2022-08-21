@@ -1,0 +1,51 @@
+{
+    "name": "Zero Beings #1268",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/01268.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Background Accent",
+            "value": "Together Stripes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair Buns"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Eyes Gradient"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Kepler-705b"
+        },
+        {
+            "trait_type": "House",
+            "value": "Helium3"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Four"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Tuna Casserole"
+        }
+    ]
+}

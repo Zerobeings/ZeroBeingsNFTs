@@ -1,0 +1,43 @@
+{
+    "name": "Zero Beings #2053",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/02053.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair Big"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Fuchsia"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "TRAPPIST-1e"
+        },
+        {
+            "trait_type": "House",
+            "value": "Dune"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "One"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Volatility"
+        }
+    ]
+}

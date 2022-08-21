@@ -1,0 +1,39 @@
+{
+    "name": "Zero Beings #78",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/00078.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Kepler-1090b"
+        },
+        {
+            "trait_type": "House",
+            "value": "Dune"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Two"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Creepy Crawleys"
+        }
+    ]
+}

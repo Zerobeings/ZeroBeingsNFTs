@@ -1,0 +1,43 @@
+{
+    "name": "Zero Beings #2635",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/02635.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Photo",
+            "value": "Photo"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Kepler-1649c"
+        },
+        {
+            "trait_type": "House",
+            "value": "Atomic"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "One"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Pie Please"
+        }
+    ]
+}

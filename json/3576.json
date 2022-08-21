@@ -1,0 +1,47 @@
+{
+    "name": "Zero Beings #3576",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/03576.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Background Accent",
+            "value": "Spaced Stripes"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Fuchsia"
+        },
+        {
+            "trait_type": "Goggles",
+            "value": "Special"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "TOI 700 d"
+        },
+        {
+            "trait_type": "House",
+            "value": "Dune"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Four"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "To the Moon"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Zero Beings #4130",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/04130.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Fuchsia"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Eyes"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "TRAPPIST-1g"
+        },
+        {
+            "trait_type": "House",
+            "value": "Dune"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Three"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "Thanks a Latte"
+        }
+    ]
+}

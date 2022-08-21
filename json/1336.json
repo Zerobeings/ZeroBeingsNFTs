@@ -1,0 +1,51 @@
+{
+    "name": "Zero Beings #1336",
+    "description": "2022 Zero Beings",
+    "image": "ipfs://bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna/01336.png",
+    "attributes": [
+        {
+            "trait_type": "The Underground",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Background Space",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair Big"
+        },
+        {
+            "trait_type": "Zero Being",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        },
+        {
+            "trait_type": "Goggles",
+            "value": "Special"
+        },
+        {
+            "trait_type": "Home Planet",
+            "value": "Kepler-1649c"
+        },
+        {
+            "trait_type": "House",
+            "value": "Rebel"
+        },
+        {
+            "trait_type": "Rocket Type",
+            "value": "Four"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "Ludicrous"
+        },
+        {
+            "trait_type": "Catchphrase",
+            "value": "It's Showtime"
+        }
+    ]
+}
