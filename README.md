@@ -6,7 +6,7 @@ cc0 collection | Zero Beings NFT assets can be used by anyone without permission
 
 [IPFS Metadata](https://nftstorage.link/ipfs/bafybeidc4mw5k3iyzfz6msc37emanpdocar2dbfwkqmz5xrh7ctcs2htyi)
 
-[IPFS Image](https://nftstorage.link/ipfs/bafybeidb57yyynti3qad3zcp2h4i4xj7ycabbvn4wnmsxwor7nxmagthna)
+[IPFS Image](https://nftstorage.link/ipfs/bafybeihvhk34lgwoh42qjkvz6obyeyls3236s5gojjukw3sq6ommg2eaye)
 
 # License
 
